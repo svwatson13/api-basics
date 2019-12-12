@@ -1,0 +1,5 @@
+Postcode: GL4 3EX
+Longitude: -2.198979, 
+Latitude: 51.854059,
+Nuts: Gloucestershire,
+Admin_Ward: Barnwood,

@@ -1,0 +1,5 @@
+Postcode: N5 1EY
+Longitude: -0.102101
+Latitude: 51.556726
+Nuts: Haringey and Islington
+Admin_Ward: Highbury West

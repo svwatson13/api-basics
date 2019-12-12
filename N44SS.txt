@@ -1,0 +1,5 @@
+Postcode: N4 4SS
+Longitude: -0.118145
+Latitude: 51.57512
+Nuts: Haringey and Islington
+Admin_Ward: Crouch End
